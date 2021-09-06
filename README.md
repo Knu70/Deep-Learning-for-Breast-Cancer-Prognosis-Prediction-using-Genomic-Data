@@ -1,4 +1,5 @@
 # Deep Learning for Breast Cancer Prognosis Prediction using Genomic Data
+<a href="url">https://www.elperceptron.com/deep-learning-cancer-mama-exp-gene/</a>
 ## Resumen
 La predicción de pronóstico en cáncer de mama utilizando marcadores moleculares permite
 hacer un diagnóstico precoz aumentando significativamente la supervivencia. La mayoría de las
